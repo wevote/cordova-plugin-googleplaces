@@ -11,17 +11,17 @@
     "doc": "docco www/GooglePlaces.js && mv docs/GooglePlaces.html docs/index.html"
   },
   "devDependencies": {
-    "babel-core": "^6.26.0",
+    "babel-core": "^6.26.3",
     "babel-plugin-transform-class-properties": "^6.24.1",
-    "babel-preset-env": "^1.6.0",
-    "docco": "^0.7.0",
-    "lodash": "^4.17.4",
-    "prettier": "^1.7.4",
-    "rollup": "^0.50.0",
-    "rollup-plugin-babel": "^3.0.2",
-    "rollup-plugin-commonjs": "^8.2.1",
-    "rollup-plugin-node-resolve": "^3.0.0",
-    "rollup-plugin-replace": "^2.0.0",
-    "rollup-plugin-uglify": "^2.0.1"
+    "babel-preset-env": "^1.7.0",
+    "docco": "^0.9.2",
+    "lodash": "^4.17.21",
+    "prettier": "^3.6.2",
+    "rollup": "^4.45.1",
+    "rollup-plugin-babel": "^4.4.0",
+    "rollup-plugin-commonjs": "^10.1.0",
+    "rollup-plugin-node-resolve": "^5.2.0",
+    "rollup-plugin-replace": "^2.2.0",
+    "rollup-plugin-uglify": "^6.0.4"
   }
 }
